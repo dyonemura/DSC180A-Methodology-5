@@ -1,4 +1,4 @@
-David Yonemura (dyonemura@ucsd.edu)
+David Yonemura (dyonemura@ucsd.edu) \\
 Low Cost Privacy Engineering (B09) - Haojian Jin
 1. **What is the most interesting topic covered in your domain this quarter?**
     - The most interesting topic I covered in my domain this quarter was the mentor's previous projects based on privacy. I thought this was interesting because the project we are undertaking was built upon the successes and failures of the previous projects.
@@ -9,4 +9,4 @@ Low Cost Privacy Engineering (B09) - Haojian Jin
 4. **What other techniques would you be interested in using in your project?**
     - One technique I would be interested in using in our project is machine learning. Given our project is mostly software engineering, I would like to use our created platform to perform machine learning to help analyze the data we could receive. 
 5. **Reflecting on if your domain is on track to ocomplete your Quarter 1 Project deliverables and if we could propose something interesting for Quarter 2**
-    - Despite our setback in the early part of the quarter, I think we are on track to complete the delieverables for Quarter 1. We also have discussed what our Quarter 2 project could be and think it is feasible and interesting. 
+    - Despite our setback in the early part of the quarter, I think we are on track to complete the delieverables for Quarter 1. We also have discussed what our Quarter 2 project could be and think it is feasible and interesting. There are two paths we could go down. The first is what I described in question 2 where we can use our platform to collect data and perform analysis on the data to see people's views on privacy. The second is to expand on the survey generation process and use LLMs to generate dynamic survey questions. Either way, it will build on what we did in Quarter 1 and are interesting and viable to do.
